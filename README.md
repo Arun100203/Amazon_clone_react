@@ -43,9 +43,9 @@ for installing Firebase tools:
 ```
 npm install -g firebase-tools
 ```
-Authorize your Project details in Firebase.
 If you are hosting with Firebase, then use the following commands:
 First, we will initialize a Firebase project in our React app by running the following command in the console in our root directory.
+Authorize your Project details in Firebase.
 ```
 firebase init
 ```
