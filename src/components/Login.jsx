@@ -27,9 +27,15 @@ function Login() {
     }
   }
 
-  const fun2 = () => {
-    if(signInWithEmailAndPassword(email, password))
-    navigate('/home');
+  const fun2 = async () => {
+    try
+    {
+      await signInWithEmailAndPassword(auth,email, password)
+     navigate('/home');
+    }
+    catch{
+      alert("id not found")
+    }
   }
   return (
     
