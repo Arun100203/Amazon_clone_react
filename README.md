@@ -70,9 +70,11 @@ This will deploy our project and also provide us with the hosting link which we 
 
  The following images are the output of my project.
  # Login 
-![Screenshot (33)](https://github.com/Arun100203/Amazon_clone_react/assets/108601293/11477049-6385-44e6-a6de-6d1d862002e9)
+![Screenshot (77)](https://github.com/Arun100203/Amazon_clone_react/assets/108601293/35c95428-15ca-40a5-ba1b-45dfe7d8df1b)
+
 # Register
-![Screenshot (3)](https://github.com/Arun100203/Amazon_clone_react/assets/108601293/a5b1b4dd-5169-4b36-9891-18f9a05e837a)
+![Screenshot (78)](https://github.com/Arun100203/Amazon_clone_react/assets/108601293/ccb36d1a-ea59-4deb-8b12-0b3d983cf086)
+
 # Homepage
 ![Screenshot (34)](https://github.com/Arun100203/Amazon_clone_react/assets/108601293/7788d9fc-f6d2-4b1e-b97e-05eac18a5c4a)
 ![Screenshot (35)](https://github.com/Arun100203/Amazon_clone_react/assets/108601293/3a2af265-59c4-46b7-aa54-69c8e1d43bc5)
